@@ -18,8 +18,8 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "So Simple Development Site"
-description: "A simple Jekyll theme for words and pictures."
+title: "Gabrielle Bernas"
+description: "Description to come."
 baseurl: "" # the subpath of your site, e.g. "/blog"
 domain: gabriellebernas.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://gabriellebernas.github.io  # the base hostname and protocol for your site, e.g. http://example.com
