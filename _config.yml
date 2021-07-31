@@ -33,7 +33,7 @@ mathjax:
 #  combo: "tex-mml-chtml"
 #  tags: "none"
 google_fonts:
-  - name: "Orpheus Pro"
+  - name: "Arima Madurai"
     weights: "400,400i,700,700i"
   - name: "Twentieth Century"
     weights: "400,400i,700,700i"
